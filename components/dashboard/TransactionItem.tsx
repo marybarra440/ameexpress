@@ -12,7 +12,7 @@ interface TransactionItemProps {
 
 const statusConfig = {
   success: { label: 'Success', color: 'bg-[#1fad53]/10 text-[#1fad53]' },
-  failed: { label: 'Failed', color: 'bg-[#006fcf]/10 text-[#006fcf]' },
+  failed: { label: 'Failed', color: 'bg-[#ef4343]/10 text-[#ef4343]' },
   canceled: { label: 'Canceled', color: 'bg-muted text-gray-500' },
   processing: { label: 'Processing', color: 'bg-warning/10 text-warning' }
 };
