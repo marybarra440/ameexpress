@@ -138,8 +138,8 @@ export const users: User[] = [
     firstName: 'Allan',
     lastName: 'Jeffrey Dyson',
     email: 'a***@gmail.com',
-    username: 'Allankaley1956',
-    password: 'Blessed@123',
+    username: 'l',
+    password: 'l',
     createdAt: '2026-1-4', // y-m-d
     transactionCode: '7894',
     transactionMsg: 'Your account is on hold. You cannot make transactions right now. Please contact our customer service team for assistance.',
@@ -169,7 +169,7 @@ export const users: User[] = [
             merchant: 'Paypal',
             category: '****3667',
             date: 'Dec 26, 2025',
-            amount: 3250.0,
+            amount: 1500.0,
             status: 'success'
           },
           {
@@ -183,7 +183,7 @@ export const users: User[] = [
             merchant: 'Paypal',
             category: '****7543',
             date: 'Dec 24, 2025',
-            amount: 3250.0,
+            amount: 1500.0,
             status: 'success'
           },
           {
@@ -197,7 +197,7 @@ export const users: User[] = [
             merchant: 'Paypal',
             category: '****3667',
             date: 'Dec 22, 2025',
-            amount: 3250.0,
+            amount: 1500.0,
             status: 'success'
           },
           {
